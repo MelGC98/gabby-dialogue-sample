@@ -1,0 +1,4 @@
+repository "gabby-dialogue-sample/gabby-dialogue-sample@5772785638657@cloud"
+  path "/"
+    br "/main"
+    co "/main"
